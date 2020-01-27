@@ -1,0 +1,4 @@
+﻿  VRPROG.cpp
+c:\users\korne\source\repos\vrprog\vrprog\vrprog.cpp(43): warning C4552: '<<': result of expression not used
+c:\users\korne\source\repos\vrprog\vrprog\vrprog.cpp(44): warning C4552: '>>': result of expression not used
+  VRPROG.vcxproj -> C:\Users\korne\source\repos\VRPROG\Debug\VRPROG.exe

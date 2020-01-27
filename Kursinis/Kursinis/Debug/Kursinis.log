@@ -1,0 +1,9 @@
+﻿  Game.cpp
+c:\users\korne\source\repos\kursinis\kursinis\game.cpp(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\korne\source\repos\kursinis\kursinis\game.cpp(14): error C2556: 'int Game::VardintiSali(int)': overloaded function differs only by return type from 'void Game::VardintiSali(int)'
+  c:\users\korne\source\repos\kursinis\kursinis\game.h(9): note: see declaration of 'Game::VardintiSali'
+c:\users\korne\source\repos\kursinis\kursinis\game.cpp(14): error C2371: 'Game::VardintiSali': redefinition; different basic types
+  c:\users\korne\source\repos\kursinis\kursinis\game.h(9): note: see declaration of 'Game::VardintiSali'
+c:\users\korne\source\repos\kursinis\kursinis\game.cpp(15): error C2065: 'cout': undeclared identifier
+  Kursinis.cpp
+  Generating Code...

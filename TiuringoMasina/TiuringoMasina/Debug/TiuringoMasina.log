@@ -1,0 +1,5 @@
+﻿  Masina.cpp
+z:\programavimas\tiuringomasina\tiuringomasina\masina.cpp(41): warning C4018: '>=': signed/unsigned mismatch
+z:\programavimas\tiuringomasina\tiuringomasina\masina.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  TiuringoMasina.vcxproj -> Z:\Programavimas\TiuringoMasina\Debug\TiuringoMasina.exe
+  TiuringoMasina.vcxproj -> Z:\Programavimas\TiuringoMasina\Debug\TiuringoMasina.pdb (Full PDB)

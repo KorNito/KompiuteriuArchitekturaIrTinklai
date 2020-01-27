@@ -1,0 +1,4 @@
+﻿  AAA.cpp
+c:\users\korne\source\repos\aaa\aaa\aaa.cpp(43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\korne\source\repos\aaa\aaa\aaa.cpp(49): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  AAA.vcxproj -> C:\Users\korne\source\repos\AAA\Debug\AAA.exe
